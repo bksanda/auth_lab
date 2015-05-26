@@ -1,6 +1,21 @@
+###2014-2015, WDI COURSE ASSIGNMENT
+####Lessons on Authentication
+
+***In this exercise, students were put into groups of 4-5 people to research each of the key components of authentication. Each group presents their findings and help other groups to understand their given topics.***
+
+
+***
+
 #AUTH LAB
 
 Time to implement authentication...and ... Go!
+
+##App setup
+* fork / clone repo
+* npm install -- installs all modules form package.json
+* dbcreate auth_lab -- creates the database
+* sqlize db:migrate -- creates database tables
+* nodemon -- start it up
 
 -----
 
